@@ -1,0 +1,50 @@
+h1 {
+    color: green;
+}
+
+h2 { 
+    color: green
+}
+p {
+    border: 1px solid black;
+}
+    @media screen and (min-width: 480px) {
+        #leftsidebar {width: 200px; float: left;}
+        #main {margin-left: 216px;}
+    }
+
+/* div#I {
+    display: visible;
+}
+
+div#II {
+    display: none;
+}
+
+div#III {
+    display: none;
+}
+
+
+div#I {
+    float: none;
+    margin: 0 auto;
+}
+
+div#II {
+    float: none;
+    margin: 0 auto;
+}
+
+div#III {
+    float: none;
+    margin: 0 auto;
+} */
+/* .book.active {
+    display:block;
+} 
+
+/*.book::after, .book::before{
+    content:"abc" ;
+} */
+
